@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 125,
-    "timeWeek": 123,
+    "timeDay": 128,
+    "timeWeek": 129,
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {}
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.zlendy.com.ico",
     "slug": "sharkey",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 647,
-    "timeDay": 688,
-    "timeWeek": 577,
-    "timeMonth": 647,
-    "timeYear": 647,
-    "dailyMinutesDown": {
-      "2024-11-03": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 642,
+    "timeDay": 685,
+    "timeWeek": 587,
+    "timeMonth": 642,
+    "timeYear": 642,
+    "dailyMinutesDown": {}
   }
 ]
