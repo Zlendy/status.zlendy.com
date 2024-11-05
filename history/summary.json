@@ -22,17 +22,19 @@
     "url": "https://social.zlendy.com",
     "icon": "https://icons.duckduckgo.com/ip3/social.zlendy.com.ico",
     "slug": "sharkey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 481,
-    "timeWeek": 578,
-    "timeMonth": 638,
-    "timeYear": 638,
-    "dailyMinutesDown": {}
+    "time": 631,
+    "timeDay": 428,
+    "timeWeek": 557,
+    "timeMonth": 631,
+    "timeYear": 631,
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   }
 ]
