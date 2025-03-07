@@ -7,8 +7,8 @@ sites:
     url: https://zlendy.com
   - name: Sharkey
     url: https://social.zlendy.com
-  - name: Plausible Analytics
-    url: https://pce.zlendy.com
+  - name: Umami Analytics
+    url: https://tomato.zlendy.com
   - name: Pterodactyl
     url: https://panel.zlendy.com
 
