@@ -1,7 +1,7 @@
 url: https://panel.zlendy.com
-status: up
-code: 200
-responseTime: 542
-lastUpdated: 2025-09-03T23:15:55.890Z
+status: down
+code: 502
+responseTime: 439
+lastUpdated: 2025-09-04T11:45:15.336Z
 startTime: 2025-01-17T18:24:49.265Z
 generator: Upptime <https://github.com/upptime/upptime>
