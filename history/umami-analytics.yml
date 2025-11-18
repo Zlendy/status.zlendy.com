@@ -1,7 +1,7 @@
 url: https://tomato.zlendy.com
-status: up
-code: 200
-responseTime: 476
-lastUpdated: 2025-11-17T23:18:17.282Z
+status: down
+code: 500
+responseTime: 104
+lastUpdated: 2025-11-18T11:45:10.643Z
 startTime: 2025-03-07T23:33:25.532Z
 generator: Upptime <https://github.com/upptime/upptime>
