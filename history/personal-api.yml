@@ -1,7 +1,7 @@
 url: https://api.zlendy.com/
-status: down
-code: 530
-responseTime: 87
-lastUpdated: 2025-12-14T14:11:42.389Z
+status: up
+code: 200
+responseTime: 507
+lastUpdated: 2025-12-14T14:33:52.555Z
 startTime: 2025-08-10T18:20:11.790Z
 generator: Upptime <https://github.com/upptime/upptime>
