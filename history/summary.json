@@ -22,17 +22,17 @@
     "url": "https://api.zlendy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.zlendy.com.ico",
     "slug": "personal-api",
-    "status": "down",
+    "status": "up",
     "uptime": "97.20%",
-    "uptimeDay": "89.65%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "88.75%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "97.20%",
-    "time": 477,
-    "timeDay": 42,
-    "timeWeek": 376,
-    "timeMonth": 493,
-    "timeYear": 477,
+    "time": 476,
+    "timeDay": 188,
+    "timeWeek": 371,
+    "timeMonth": 488,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2025-09-04": 13,
       "2025-09-06": 48,
@@ -67,7 +67,7 @@
       "2026-05-16": 93,
       "2026-05-31": 69,
       "2026-06-04": 149,
-      "2026-07-02": 149
+      "2026-07-02": 162
     }
   },
   {
@@ -75,16 +75,16 @@
     "url": "https://social.zlendy.com",
     "icon": "https://icons.duckduckgo.com/ip3/social.zlendy.com.ico",
     "slug": "sharkey",
-    "status": "down",
+    "status": "up",
     "uptime": "97.34%",
-    "uptimeDay": "89.67%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "88.77%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "95.99%",
     "time": 461,
-    "timeDay": 30,
-    "timeWeek": 368,
-    "timeMonth": 539,
+    "timeDay": 203,
+    "timeWeek": 369,
+    "timeMonth": 534,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2025-07-24": 35,
@@ -151,7 +151,7 @@
       "2026-05-20": 744,
       "2026-05-31": 68,
       "2026-06-04": 149,
-      "2026-07-02": 149
+      "2026-07-02": 162
     }
   },
   {
@@ -159,16 +159,16 @@
     "url": "https://tomato.zlendy.com",
     "icon": "https://icons.duckduckgo.com/ip3/tomato.zlendy.com.ico",
     "slug": "umami-analytics",
-    "status": "down",
+    "status": "up",
     "uptime": "97.51%",
-    "uptimeDay": "89.68%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "88.78%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "96.89%",
     "time": 550,
-    "timeDay": 25,
-    "timeWeek": 397,
-    "timeMonth": 488,
+    "timeDay": 208,
+    "timeWeek": 396,
+    "timeMonth": 485,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2025-07-27": 534,
@@ -210,7 +210,7 @@
       "2026-05-16": 93,
       "2026-05-31": 68,
       "2026-06-04": 149,
-      "2026-07-02": 149
+      "2026-07-02": 162
     }
   },
   {
@@ -218,17 +218,17 @@
     "url": "https://panel.zlendy.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.zlendy.com.ico",
     "slug": "pterodactyl",
-    "status": "down",
+    "status": "up",
     "uptime": "97.78%",
-    "uptimeDay": "89.69%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "88.79%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "96.97%",
     "time": 504,
-    "timeDay": 26,
-    "timeWeek": 395,
-    "timeMonth": 489,
-    "timeYear": 500,
+    "timeDay": 216,
+    "timeWeek": 396,
+    "timeMonth": 486,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2025-07-27": 534,
       "2025-07-26": 1440,
@@ -267,7 +267,7 @@
       "2026-05-16": 93,
       "2026-05-31": 68,
       "2026-06-04": 148,
-      "2026-07-02": 148
+      "2026-07-02": 161
     }
   }
 ]
