@@ -22,17 +22,17 @@
     "url": "https://api.zlendy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.zlendy.com.ico",
     "slug": "personal-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "97.27%",
-    "time": 536,
-    "timeDay": 561,
-    "timeWeek": 519,
-    "timeMonth": 1208,
-    "timeYear": 536,
+    "time": 535,
+    "timeDay": 295,
+    "timeWeek": 458,
+    "timeMonth": 1173,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2025-09-04": 13,
       "2025-09-06": 48,
@@ -68,7 +68,8 @@
       "2026-05-31": 69,
       "2026-06-04": 149,
       "2026-07-02": 162,
-      "2026-07-03": 82
+      "2026-07-03": 82,
+      "2026-07-12": 0
     }
   },
   {
